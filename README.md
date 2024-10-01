@@ -2,7 +2,6 @@
 - 👀 I’m interested in ML , NLP.
 - 🌱 I’m currently learning Agile DevOps.
 - 📫 Reach me at santosh@shorthills.ai
--
 
 <!---
 SantoshKashyapShorthillsAI/SantoshKashyapShorthillsAI is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
