@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Santosh Kumar Kashyap @ ShorthillsAI.
 - 👀 I’m interested in ML , NLP.
-- 🌱 I’m currently learning Agile DevOps.
+- 🌱 I’m currently learning Development and Testing .
 - 📫 Reach me at santosh@shorthills.ai
 
 <!---
